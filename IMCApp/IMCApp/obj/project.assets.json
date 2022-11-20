@@ -540,11 +540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Xamarin\\IMCAppBinding\\IMCApp\\IMCApp\\IMCApp.csproj",
+      "projectUniqueName": "D:\\Projects\\Xamarin\\IMCAppMVVM\\IMCApp\\IMCApp\\IMCApp.csproj",
       "projectName": "IMCApp",
-      "projectPath": "D:\\Projects\\Xamarin\\IMCAppBinding\\IMCApp\\IMCApp\\IMCApp.csproj",
+      "projectPath": "D:\\Projects\\Xamarin\\IMCAppMVVM\\IMCApp\\IMCApp\\IMCApp.csproj",
       "packagesPath": "C:\\Users\\Henry-PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Xamarin\\IMCAppBinding\\IMCApp\\IMCApp\\obj\\",
+      "outputPath": "D:\\Projects\\Xamarin\\IMCAppMVVM\\IMCApp\\IMCApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

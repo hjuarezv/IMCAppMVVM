@@ -29,20 +29,20 @@
                 <Label Text="Resultado" Grid.Row="2" Grid.Column="0" 
                        FontAttributes="Bold" VerticalOptions="Center" />
                 <Entry x:Name="txtTalla" Placeholder="Ingrese su Talla" 
-                       Keyboard="Numeric" Text="{Binding talla}"
+                       Keyboard="Numeric" Text="{Binding imc.talla}"
                        Grid.Row="0" Grid.Column="1"/>
                 <Entry x:Name="txtPeso" Placeholder="Ingrese su Peso" 
-                       Keyboard="Numeric" Text="{Binding peso}"
+                       Keyboard="Numeric" Text="{Binding imc.peso}"
                        Grid.Row="1" Grid.Column="1"/>
                 <Entry x:Name="txtResultado" Placeholder="" Grid.Row="2" Grid.Column="1"
-                       Text="{Binding resultado}"
+                       Text="{Binding imc.resultado}"
                        IsReadOnly="True" />
             </Grid>
             <Button Text="Calcular" HorizontalOptions="Center" WidthRequest="300"
                     BackgroundColor="LightGreen"
                     x:Name="btnCalcularIMC" Command="{Binding ComCalcularIMC}"
                     />
-            <Image x:Name="imgResultado" Source="{Binding foto_resultado}"/>
+            <Image x:Name="imgResultado" Source="{Binding imc.foto_resultado}"/>
         </StackLayout>
         </ScrollView>
     </ContentPage.Content>

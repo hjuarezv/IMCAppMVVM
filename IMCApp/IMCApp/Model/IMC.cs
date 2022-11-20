@@ -14,8 +14,6 @@ namespace IMCApp
         private double talla1;
         private string foto_resultado1;
 
-        public Command ComCalcularIMC { get; set; }
-
         public double talla
         {
             get => talla1; set
@@ -53,27 +51,6 @@ namespace IMCApp
         }
 
         public event PropertyChangedEventHandler PropertyChanged;
-
-        public IMC()
-        {
-            ComCalcularIMC = new Command(Calcular);
-        }
-
-        public void Calcular()
-        {
-            resultado = Math.Round(peso / (talla * talla), 2);
-
-            foto_resultado = "";
-
-            if (resultado < 18.5)
-            {
-                foto_resultado = "desnutricion.jpg";                
-            }
-            else if (resultado >= 18.5 && resultado < 25)
-            {
-                foto_resultado = "saludable.jpg";                
-            }
-        }
 
         // This method is called by the Set accessor of each property.
         // The CallerMemberName attribute that is applied to the optional propertyName

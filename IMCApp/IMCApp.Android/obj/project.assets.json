@@ -2148,11 +2148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Xamarin\\IMCAppBinding\\IMCApp\\IMCApp.Android\\IMCApp.Android.csproj",
+      "projectUniqueName": "D:\\Projects\\Xamarin\\IMCAppMVVM\\IMCApp\\IMCApp.Android\\IMCApp.Android.csproj",
       "projectName": "IMCApp.Android",
-      "projectPath": "D:\\Projects\\Xamarin\\IMCAppBinding\\IMCApp\\IMCApp.Android\\IMCApp.Android.csproj",
+      "projectPath": "D:\\Projects\\Xamarin\\IMCAppMVVM\\IMCApp\\IMCApp.Android\\IMCApp.Android.csproj",
       "packagesPath": "C:\\Users\\Henry-PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Xamarin\\IMCAppBinding\\IMCApp\\IMCApp.Android\\obj\\",
+      "outputPath": "D:\\Projects\\Xamarin\\IMCAppMVVM\\IMCApp\\IMCApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2173,8 +2173,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "D:\\Projects\\Xamarin\\IMCAppBinding\\IMCApp\\IMCApp\\IMCApp.csproj": {
-              "projectPath": "D:\\Projects\\Xamarin\\IMCAppBinding\\IMCApp\\IMCApp\\IMCApp.csproj"
+            "D:\\Projects\\Xamarin\\IMCAppMVVM\\IMCApp\\IMCApp\\IMCApp.csproj": {
+              "projectPath": "D:\\Projects\\Xamarin\\IMCAppMVVM\\IMCApp\\IMCApp\\IMCApp.csproj"
             }
           }
         }

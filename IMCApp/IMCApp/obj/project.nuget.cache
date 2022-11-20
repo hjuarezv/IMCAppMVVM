@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "EJV+NW/KB0kujsT0DfqUiph69jPy5IP19AgW9ZNeDUe6Re+Rh7YoJBnbC1j2zE5e9PVr4S60FhWuTx1MvZgLYg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Xamarin\\IMCAppMVVM\\IMCApp\\IMCApp\\IMCApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Henry-PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Henry-PC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Henry-PC\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
